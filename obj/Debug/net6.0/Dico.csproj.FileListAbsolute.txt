@@ -1,0 +1,8 @@
+C:\Users\A114SR\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Dico.csproj.AssemblyReference.cache
+C:\Users\A114SR\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Dico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A114SR\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Dico.AssemblyInfoInputs.cache
+C:\Users\A114SR\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Dico.AssemblyInfo.cs
+C:\Users\A114SR\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Dico.csproj.CoreCompileInputs.cache
+C:\Users\A114SR\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Dico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A114SR\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Dico.RazorAssemblyInfo.cache
+C:\Users\A114SR\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Dico.RazorAssemblyInfo.cs

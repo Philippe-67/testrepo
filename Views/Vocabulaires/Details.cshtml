@@ -1,0 +1,20 @@
+﻿<!-- Views/Quiz/QuizView.cshtml -->
+@model VotreNamespace.ViewModels.QuizViewModel
+
+<h2>Quiz de vocabulaire</h2>
+
+@if (Model.QuizEnCours)
+{
+    <p>Mot à traduire : @Model.MotCourant.MotFrancais</p>
+
+    <form asp-action="CheckAnswer" method="post">
+        <label for="userAnswer">Traduction en anglais :</label>
+        <input type="text" name="UserAnswer" required />
+        <button type="submit">Vérifier</button>
+    </form>
+}
+else
+{
+    <p>Quiz terminé ! Votre score est de @Model.Score sur @Model.NombreTotalDeMots.</p>
+    <a asp-action="ExitQuiz">Quitter le quiz</a>
+}
